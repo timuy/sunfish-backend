@@ -1,6 +1,6 @@
-# clerq-assessment
+# sunfish-backend
 
-Clerq Assessment
+Sunfish Backend
 
 1. Clone the repo:
     git clone https://github.com/timuy/sunfish-backend.git
@@ -29,4 +29,5 @@ Implementation
     $HOME/.local/bin/poetry run python -m ruff check
 
 5. Run the following command for unit tests:
+
     $HOME/.local/bin/poetry run python -m pytest tests -s -vv
